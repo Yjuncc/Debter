@@ -1,0 +1,26 @@
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+.bt.bt1{
+    box-sizing:border-box;
+}
+/*清除浮动*/
+.at{
+    clear:both;
+}
+/*建立浮动float*/
+.bt{
+    float:left;
+    width:10%;
+    height:500px;
+    background:#2383d1;
+    text-align:center;
+    padding: 10px;
+}
+.bt1{
+    float:right;
+    width:85%;
+    padding: 10px;
+}
